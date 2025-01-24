@@ -3,11 +3,7 @@ from setuptools import setup, find_packages
 long_description = """
 <div align="center">
 
-[<img src="https://github.com/aahan0511/Secrypto/blob/main/assets/icon.png" alt="assets/ascii.png" width=110>](https://github.com/aahan0511/Secrypto "Secrypto on GitHub")
-
-# [**`Secrypto`**](https://github.com/aahan0511/Secrypto "Secrypto on GitHub")
-
-### **`Secrypto`**
+# **`Secrypto`**
 **Secrypto** is an excellent cryptographer, with more than $4.5e806$ (**45 with 805 following zeros!**) possible combinations.
 
 ---
@@ -119,7 +115,7 @@ To view the security and data safety of Secrypto, see [`SECURITY.md`](https://gi
 
 setup(
     name='secrypto',
-    version='1.0.0',
+    version='1.0.1',
     packages=find_packages(),
     install_requires=[],
     author='Aahan Salecha',
