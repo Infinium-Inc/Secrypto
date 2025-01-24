@@ -89,6 +89,7 @@ Write
 ```bash
 pip install Secrypto
 ```
+Or see the [PyPI page](https://pypi.org/project/secrypto/ "secrypto on PyPI")
 
 <br><br>
 <div align="center">
