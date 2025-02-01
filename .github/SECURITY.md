@@ -7,7 +7,9 @@ There is no data used/processed except for your score, time and block, which is 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v1.0.0  |        ✅         |
-
+| v1.0.0  |         ❌         |
+| v1.0.1  |         ❌         |
+| v1.0.2  |         ✅         |
+ 
 ## Reporting a Vulnerability
 Make a new issue for reporting a vulnerability, or make a pull request if you manage to fix it.
