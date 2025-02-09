@@ -3,14 +3,14 @@ from setuptools import setup, find_packages
 long_description = """
 <div align="center">
 
-# **`Secrypto`**
+# **Secrypto**
 **Secrypto** is an excellent cryptographer, with more than $4.5e806$ (**45 with 805 following zeros!**) possible combinations.
 
 ---
 
 <br><br>
 
-# **`Contents`**
+# **Contents**
 </div>
 
 * [**`How To Use`**](#how-to-use)
@@ -22,7 +22,7 @@ long_description = """
 <br><br>
 <div align="center">
 
-# **`How To Use`**
+# **How To Use**
 
 </div>
 
@@ -79,7 +79,7 @@ if text == decryption:
 <br><br>
 <div align="center">
 
-# [**`License`**](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en "CC0 1.0 Universal Website")
+# [**License**](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en "CC0 1.0 Universal Website")
 
 </div>
 
@@ -88,7 +88,7 @@ Secrypto is licensed under the [**CC0 1.0 Universal License**](https://github.co
 <br><br>
 <div align="center">
 
-# [**`Contributing`**](https://github.com/aahan0511/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing on Secrypto")
+# [**Contributing**](https://github.com/aahan0511/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing on Secrypto")
 
 </div>
 
@@ -97,7 +97,7 @@ Follow the [CONTRIBUTING.md](https://github.com/aahan0511/Secrypto/blob/main/.gi
 <br><br>
 <div align="center">
 
-# [**`Code Of Conduct`**](https://www.contributor-covenant.org/ "Contributor Covenant Website")
+# [**Code Of Conduct**](https://www.contributor-covenant.org/ "Contributor Covenant Website")
 
 </div>
 
@@ -106,7 +106,7 @@ Secrypto has the [**Contributor Covenant Code of Conduct**](https://github.com/a
 <br><br>
 <div align="center">
 
-# [**`Security`**](https://github.com/aahan0511/Secrypto/blob/main/.github/SECURITY.md "Security on Secrypto")
+# [**Security**](https://github.com/aahan0511/Secrypto/blob/main/.github/SECURITY.md "Security on Secrypto")
 
 </div>
 
@@ -115,7 +115,7 @@ To view the security and data safety of Secrypto, see [`SECURITY.md`](https://gi
 
 setup(
     name='secrypto',
-    version='1.0.2',
+    version='1.0.3',
     packages=find_packages(),
     install_requires=[],
     author='Aahan Salecha',

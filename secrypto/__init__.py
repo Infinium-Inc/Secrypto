@@ -1,4 +1,5 @@
-from .key import Key
-from .cryptograph import encrypt, decrypt
+from .source.key import Key
+from .source.encrypt import encrypt
+from .source.decrypt import decrypt
 
-version = "v1.0.0"
+version = "v1.0.3"
