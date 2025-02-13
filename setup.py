@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 long_description = """
 <div align="center">
@@ -115,8 +115,8 @@ To view the security and data safety of Secrypto, see [`SECURITY.md`](https://gi
 
 setup(
     name='secrypto',
-    version='1.0.3',
-    packages=find_packages(),
+    version='1.0.4',
+    packages=["secrypto", "secrypto.source"],
     install_requires=[],
     author='Aahan Salecha',
     author_email='salecha.aahan@gmail.com',
@@ -125,6 +125,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     license='CC0 1.0 Universal',
+    license_file="LICENSE.md",
     project_urls={
         'Source Repository': 'https://github.com/aahan0511/Secrypto/'
     }
