@@ -8,7 +8,7 @@ Thank you for considering contributing to Secrypto! We welcome contributions fro
 
 2. **Clone your fork**: 
     ```sh
-    git clone https://github.com/aahan0511/Secrypto.git
+    git clone https://github.com/Infinium-Inc/Secrypto.git
     ```
 
 3. **Create a branch**: 
@@ -43,6 +43,6 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please open an issue [here](https://github.com/aahan0511/Secrypto/issues).
+If you find a bug or have a feature request, please open an issue [here](https://github.com/Infinium-Inc/Secrypto/issues).
 
 Thank you for your contributions!
