@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Data Safety
-There is no data used/processed except for your score, time and block, which is also stored locally.
+There is no data used/processed. Nothing is being saved or fetched from your device.
 
 ## Supported Versions
 
