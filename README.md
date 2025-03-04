@@ -1,8 +1,8 @@
 <div align="center">
 
-[<img src="https://github.com/Infinium-Inc/Secrypto/blob/main/assets/icon.png" alt="assets/ascii.png" width=110>](https://github.com/Infinium-Inc/Secrypto "Secrypto on GitHub")
+[<img src="https://github.com/aahan0511/Secrypto/blob/main/assets/icon.png" alt="assets/ascii.png" width=110>](https://github.com/aahan0511/Secrypto "Secrypto on GitHub")
 
-# [**`Secrypto`**](https://github.com/Infinium-Inc/Secrypto "Secrypto on GitHub")
+# [**`Secrypto`**](https://github.com/aahan0511/Secrypto "Secrypto on GitHub")
 
 ### **`Secrypto`**
 **Secrypto** is an excellent cryptographer, with more than $4.5e806$ (**45 with 805 following zeros!**) possible combinations.
@@ -98,16 +98,16 @@ Or see the [PyPI page](https://pypi.org/project/secrypto/ "secrypto on PyPI")
 
 </div>
 
-Secrypto is licensed under the [**CC0 1.0 Universal License**](https://github.com/Infinium-Inc/Secrypto/blob/main/LICENSE.md "License for Secrypto").
+Secrypto is licensed under the [**CC0 1.0 Universal License**](https://github.com/aahan0511/Secrypto/blob/main/LICENSE.md "License for Secrypto").
 
 <br><br>
 <div align="center">
 
-# [**`Contributing`**](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing on Secrypto")
+# [**`Contributing`**](https://github.com/aahan0511/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing on Secrypto")
 
 </div>
 
-Follow the [CONTRIBUTING.md](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing for Secrypto") to ensure a smooth contribution process.
+Follow the [CONTRIBUTING.md](https://github.com/aahan0511/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing for Secrypto") to ensure a smooth contribution process.
 
 <br><br>
 <div align="center">
@@ -116,13 +116,13 @@ Follow the [CONTRIBUTING.md](https://github.com/Infinium-Inc/Secrypto/blob/main/
 
 </div>
 
-Secrypto has the [**Contributor Covenant Code of Conduct**](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/CODE_OF_CONDUCT.md "Code Of Conduct for Secrypto").
+Secrypto has the [**Contributor Covenant Code of Conduct**](https://github.com/aahan0511/Secrypto/blob/main/.github/CODE_OF_CONDUCT.md "Code Of Conduct for Secrypto").
 
 <br><br>
 <div align="center">
 
-# [**`Security`**](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/SECURITY.md "Security on Secrypto")
+# [**`Security`**](https://github.com/aahan0511/Secrypto/blob/main/.github/SECURITY.md "Security on Secrypto")
 
 </div>
 
-To view the security and data safety of Secrypto, see [`SECURITY.md`](https://github.com/Infinium-Inc/SecryptoSecrypto/blob/main/.github/SECURITY.md "Security on Secrypto").
+To view the security and data safety of Secrypto, see [`SECURITY.md`](https://github.com/aahan0511/SecryptoSecrypto/blob/main/.github/SECURITY.md "Security on Secrypto").

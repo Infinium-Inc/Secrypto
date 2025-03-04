@@ -83,16 +83,16 @@ if text == decryption:
 
 </div>
 
-Secrypto is licensed under the [**CC0 1.0 Universal License**](https://github.com/Infinium-Inc/Secrypto/blob/main/LICENSE.md "License for Secrypto").
+Secrypto is licensed under the [**CC0 1.0 Universal License**](https://github.com/aahan0511/Secrypto/blob/main/LICENSE.md "License for Secrypto").
 
 <br><br>
 <div align="center">
 
-# [**Contributing**](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing on Secrypto")
+# [**Contributing**](https://github.com/aahan0511/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing on Secrypto")
 
 </div>
 
-Follow the [CONTRIBUTING.md](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing for Secrypto") to ensure a smooth contribution process.
+Follow the [CONTRIBUTING.md](https://github.com/aahan0511/Secrypto/blob/main/.github/CONTRIBUTING.md "Contributing for Secrypto") to ensure a smooth contribution process.
 
 <br><br>
 <div align="center">
@@ -101,16 +101,16 @@ Follow the [CONTRIBUTING.md](https://github.com/Infinium-Inc/Secrypto/blob/main/
 
 </div>
 
-Secrypto has the [**Contributor Covenant Code of Conduct**](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/CODE_OF_CONDUCT.md "Code Of Conduct for Secrypto").
+Secrypto has the [**Contributor Covenant Code of Conduct**](https://github.com/aahan0511/Secrypto/blob/main/.github/CODE_OF_CONDUCT.md "Code Of Conduct for Secrypto").
 
 <br><br>
 <div align="center">
 
-# [**Security**](https://github.com/Infinium-Inc/Secrypto/blob/main/.github/SECURITY.md "Security on Secrypto")
+# [**Security**](https://github.com/aahan0511/Secrypto/blob/main/.github/SECURITY.md "Security on Secrypto")
 
 </div>
 
-To view the security and data safety of Secrypto, see [`SECURITY.md`](https://github.com/Infinium-Inc/SecryptoSecrypto/blob/main/.github/SECURITY.md "Security on Secrypto").
+To view the security and data safety of Secrypto, see [`SECURITY.md`](https://github.com/aahan0511/SecryptoSecrypto/blob/main/.github/SECURITY.md "Security on Secrypto").
 """
 
 setup(
@@ -127,6 +127,6 @@ setup(
     license='CC0 1.0 Universal',
     license_file="LICENSE.md",
     project_urls={
-        'Source Repository': 'https://github.com/Infinium-Inc/Secrypto/'
+        'Source Repository': 'https://github.com/aahan0511/Secrypto/'
     }
 )
